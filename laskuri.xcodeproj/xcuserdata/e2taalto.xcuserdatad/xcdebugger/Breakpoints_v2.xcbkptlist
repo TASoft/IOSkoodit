@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "laskuri/ViewController.swift"
+            timestampString = "466954134.928411"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "laskuri.ViewController.init (laskuri.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; laskuri.ViewController"
+                  moduleName = "laskuri"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e2taalto/Desktop/laskuri/laskuri/ViewController.swift"
+                  timestampString = "466957340.674569"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "laskuri.ViewController.init (laskuri.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;laskuri.ViewController&gt;"
+                  moduleName = "laskuri"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e2taalto/Desktop/laskuri/laskuri/ViewController.swift"
+                  timestampString = "466957340.674755"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "laskuri/ViewController.swift"
+            timestampString = "466956773.764155"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "laskuri.ViewController.x1.getter : Swift.UInt32"
+                  moduleName = "laskuri"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e2taalto/Desktop/laskuri/laskuri/ViewController.swift"
+                  timestampString = "466957340.693171"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "laskuri.ViewController.x1.setter : Swift.UInt32"
+                  moduleName = "laskuri"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e2taalto/Desktop/laskuri/laskuri/ViewController.swift"
+                  timestampString = "466957340.693376"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "laskuri.ViewController.init (laskuri.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; laskuri.ViewController"
+                  moduleName = "laskuri"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e2taalto/Desktop/laskuri/laskuri/ViewController.swift"
+                  timestampString = "466957340.693737"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "laskuri.ViewController.init (laskuri.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;laskuri.ViewController&gt;"
+                  moduleName = "laskuri"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e2taalto/Desktop/laskuri/laskuri/ViewController.swift"
+                  timestampString = "466957340.693896"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
